@@ -1,0 +1,27 @@
+.exchange__rate{
+    width:100%;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.heading__container{
+    border:1px solid black;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:5px;
+    padding:10px;
+}
+.heading2{
+    margin-left:10px;
+    color:gray;
+}
+.heading1{
+    margin-left:10px;
+}
+.heading__group{
+    display: flex;
+    align-items: baseline;
+    word-spacing: 1rem;
+}
+.heading3{
+    color:rgb(102, 255, 0);
+}
